@@ -1,0 +1,155 @@
+/* Thank you project code for the learning experience*/
+
+/* This section here will control the colors and appearance of the menu bar*/
+
+
+
+
+body {
+    background-color: #cccccc;
+}
+
+li {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin:; 0;
+}
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #008ab0;
+    float: right;
+    padding: 1%;
+    font-weight: bold;
+}
+.menu {
+    width: 100%;
+    height:80px;
+    clear:both;
+}
+.image img {
+    width: 100%;
+    height: auto;
+    z-index: 1;
+}
+.container {
+    width: 100%;
+    background-color:#cccccc; 
+    margin:auto;
+    position: absolute;
+    
+}
+
+.menu img {
+    width: 200px;
+    height: 180px;
+    z-index: ;
+}
+#titleone {
+    color: #23c84e;
+    font-size: 50px;
+    position: absolute;
+    left: 6%;
+    font-weight: bold;
+    top: -4%;
+    font-family: 'Luckiest Guy', cursive;
+}
+.flavors {
+    display: block;
+}
+#chocolate img{
+    width: 450px;
+    height:250px;
+    margin: auto;
+
+}
+#banana img {
+    width: 450px;
+    height:250px;
+    margin: auto;
+}
+#raspberry img{
+    width: 450px;
+    height:250px;
+    
+}
+#blueice img {
+     width: 200px;
+    height:40px;
+}
+#strawberry {
+     width: 100px;
+    height:40px;
+}
+#coffee img {
+    width:450px;
+    height:250px;
+}
+.floating-box {
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+    width: 450px;
+    height: 400px;
+    border: 3px solid #cccccc;
+    padding: 10px;
+    position: relative;
+    left: 10%;
+}
+.word {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: serif;
+    color:#00a37e;
+}
+.map {
+    font-weight:normal;
+    font-size: 18px;
+    font-family: serif;
+    color:#008ab0;
+}
+.yeah {
+    position: relative;
+    bottom: 500px;
+    left: 60%;
+    z-index: 5;
+    font-size: 50px;
+    color: red;
+    font-family: 'Luckiest Guy', cursive;
+}
+.about_us {
+    font-size: 50px;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center
+}
+.directions {
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+    }
+.hours {
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+.nine {
+    color:#004e8b;
+}
+
+#directions {
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+.up a {
+    
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
